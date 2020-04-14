@@ -6,7 +6,7 @@ description: "A blog made during quarantine"
 author: "Jesus Ortiz"
 title: "Jesus' Quarantine"
 permalink: pretty
-baseurl: /Jesus-Quarantine
+baseurl: 
 
 # social
 github:
