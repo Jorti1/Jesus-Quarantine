@@ -4,7 +4,7 @@ email: blog.jesusortiz@gmail.com
 url: url
 description: "A blog made during quarantine"
 author: "Jesus Ortiz"
-title: "BlogFolio"
+title: "Jesus' Quarantine"
 permalink: pretty
 baseurl: /Jesus-Quarantine
 
@@ -14,4 +14,3 @@ github:
 
 twitter:
   username:
- 
