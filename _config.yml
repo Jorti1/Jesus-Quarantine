@@ -2,14 +2,16 @@
 name: Jesus Ortiz
 email: blog.jesusortiz@gmail.com
 url: url
-description: "A blog and a portfolio"
-author: "author"
-title: "Jesus' Quarantine"
+description: "A blog made during quarantine"
+author: "Jesus Ortiz"
+title: "BlogFolio"
 permalink: pretty
-baseurl: /Jesus%Quarantine
+baseurl: /Jesus-Quarantine
 
 # social
 github:
   username: jorti1
+
 twitter:
-  username: 
+  username:
+ 
