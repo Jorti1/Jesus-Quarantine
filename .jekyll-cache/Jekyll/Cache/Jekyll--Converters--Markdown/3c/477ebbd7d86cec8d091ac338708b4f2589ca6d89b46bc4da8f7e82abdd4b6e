@@ -1,0 +1,53 @@
+I"r<section class="hero is-primary is-small">
+    <div class="hero-body">
+        <div class="container has-text-centered">
+            <p class="title is-1">
+                Jesus' Quarantine
+            </p>
+            <p class="subtitle is-4">
+                <em>A blog brought to you by Jesus Ortiz</em>
+            </p>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div class="columns">
+            <div class="column is-half is-offset-one-quarter">
+
+                
+                <div class="box">
+                    <article class="media">
+                        <div class="media-content">
+                            <div class="content">
+                                <a href="/2020/04/14/create-website/">
+                                    <p class="title is-2">How to create your own website <span class="tag is-white is-pulled-right"><small>April 14, 2020</small></span></p>
+                                    <p class="subtitle"><small>Currently being written. Please check back later.
+</small></p>
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                
+                <div class="box">
+                    <article class="media">
+                        <div class="media-content">
+                            <div class="content">
+                                <a href="/2020/04/13/first-post/">
+                                    <p class="title is-2">The start of something new... <span class="tag is-white is-pulled-right"><small>April 13, 2020</small></span></p>
+                                    <p class="subtitle"><small>Hey guys, my name is Jesus. This is my first post and it’s been almost a month in quarantine… I’ll keep this blog short. Today I launched this website and now Im going to go nap.
+</small></p>
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                
+
+            </div>
+        </div>
+    </div>
+</section>
+:ET
