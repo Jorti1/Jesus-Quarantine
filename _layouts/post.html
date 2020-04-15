@@ -6,7 +6,7 @@ layout: default
     <div class="container">
         <div class="heading has-text-centered">
             <p class="title is-3">{{page.title}}</p>
-            <p class="subtitle is-6"><span class="tag is-white"><small>{{ page.date | date: '%B %d, %Y'}}</small></span></p>
+            <p class="subtitle is-6"><span class="tag is-white"><small>Written by {{page.author}} on {{ page.date | date: '%B %d, %Y'}}</small></span></p>
         </div>
         <br>
         <div class="columns is-multiline">
